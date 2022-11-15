@@ -1,19 +1,19 @@
 {
   "home": {
-    "title": "Welcome, Java Hipster!",
+    "title": "SWE573 Notebook Plus",
     "subtitle": "This is your homepage",
     "logged": {
       "message": "You are logged in as user \"{{username}}\"."
     },
-    "question": "If you have any question on JHipster:",
+    "question": "If you have any question about my project",
     "link": {
-      "homepage": "JHipster homepage",
-      "stackoverflow": "JHipster on Stack Overflow",
-      "bugtracker": "JHipster bug tracker",
-      "chat": "JHipster public chat room",
-      "follow": "follow @jhipster on Twitter"
+      "homepage": "Github homepage",
+      "stackoverflow": "Mockup screens",
+      "bugtracker": "Weekly Reports",
+      "chat": "handenurcokun@gmail.com",
+      "follow": "follow @handenurcoskun on Github"
     },
-    "like": "If you like JHipster, don't forget to give us a star on",
+    "like": "If you like my Project, don't forget to fallow me on Github",
     "github": "GitHub"
   }
 }
